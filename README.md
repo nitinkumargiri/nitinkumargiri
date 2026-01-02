@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **nitingirinitingiri240@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** AI (artificial Intelligent)
-- 🌱 **I’m currently learning:** Enter your tech here
+- 🌱 **I’m currently learning: Python**
 - 💬 ** Artificial Intelligence is a technology that allows machines and computers to think and work like
          humans.AI makes our work easier and saves time. It is used in many fields such as education,
          healthcare, banking, and transportation.
